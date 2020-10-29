@@ -64,27 +64,27 @@ hadoop jar ansul_goenka_hw2-assembly-0.1.jar <input directory> <output directory
     
 ### Job 1: Finding top ten published authors at each venue  
 
-![Job1](https://bitbucket.org/cs441-fall2020/ansul_goenka_hw2/raw/51647978f4e18fd2691034ec3b868e86644406a5/images/Job1.PNG)
+![Job1](https://raw.githubusercontent.com/ansul2k/dblp-mapreduce/main/images/Job1.PNG)
     
 ### Job 2: Finding the list of authors who published without interruption for N (N>10) years  
 
-![Job2](https://bitbucket.org/cs441-fall2020/ansul_goenka_hw2/raw/51647978f4e18fd2691034ec3b868e86644406a5/images/Job2.PNG)
+![Job2](https://raw.githubusercontent.com/ansul2k/dblp-mapreduce/main/images/Job2.PNG)
     
 ### Job 3: For each venue producing the list of publications that contains only one author  
 
-![Job3](https://bitbucket.org/cs441-fall2020/ansul_goenka_hw2/raw/51647978f4e18fd2691034ec3b868e86644406a5/images/Job3.PNG)
+![Job3](https://raw.githubusercontent.com/ansul2k/dblp-mapreduce/main/images/Job3.PNG)
 
 ### Job 4: The list of publications for each venue that contain the highest number of authors for each of these venues   
  
-![Job4](https://bitbucket.org/cs441-fall2020/ansul_goenka_hw2/raw/51647978f4e18fd2691034ec3b868e86644406a5/images/Job4.PNG)
+![Job4](https://raw.githubusercontent.com/ansul2k/dblp-mapreduce/main/images/Job4.PNG)
     
 ### Job 5: Top 100 authors in the descending order who publish with most co-authors  
 
-![Job5](https://bitbucket.org/cs441-fall2020/ansul_goenka_hw2/raw/2af5efa78ffd8c62bbcdc37f93a58d1afbe052be/images/Job5.png)
+![Job5](https://raw.githubusercontent.com/ansul2k/dblp-mapreduce/main/images/Job5.png)
     
 ### Job 6: List of 100 authors who publish without any co-authors  
 
-![Job6](https://bitbucket.org/cs441-fall2020/ansul_goenka_hw2/raw/2af5efa78ffd8c62bbcdc37f93a58d1afbe052be/images/Job6.png)
+![Job6](https://raw.githubusercontent.com/ansul2k/dblp-mapreduce/main/images/Job6.png)
     
 
 ### EMR
